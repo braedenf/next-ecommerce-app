@@ -1,0 +1,44 @@
+[
+  {
+    "id": "adidas-backpack-black",
+    "title": "Adidas Backpack (Black)",
+    "price": 89.99,
+    "image": "/images/adidas_backpack_front.jpg"
+  },
+  {
+    "id": "adidas-shoe",
+    "title": "Adidas Shoe",
+    "price": 59.99,
+    "image": "/images/adidas_shoe.jpg"
+  },
+  {
+    "id": "asics-tiger-shoe",
+    "title": "Asics Tiger Shoe",
+    "price": 64.99,
+    "image": "/images/asics_tiger_shoe.jpg"
+  },
+  {
+    "id": "flex-fit-hat",
+    "title": "Flex Fit Hat",
+    "price": 24.5,
+    "image": "/images/flex_fit_hat.jpg"
+  },
+  {
+    "id": "nike-shirt",
+    "title": "Nike Shirt",
+    "price": 36.0,
+    "image": "/images/nike_shirt.jpg"
+  },
+  {
+    "id": "puma-shoe",
+    "title": "Puma Shoe",
+    "price": 64.99,
+    "image": "/images/puma_shoe_side.jpg"
+  },
+  {
+    "id": "timber-shoe",
+    "title": "Timber Shoe",
+    "price": 64.99,
+    "image": "/images/timber_shoe_side.jpg"
+  }
+]

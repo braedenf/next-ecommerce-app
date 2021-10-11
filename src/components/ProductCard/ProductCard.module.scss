@@ -1,0 +1,11 @@
+.productCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.85em;
+
+  * {
+    margin: 0;
+  }
+}
