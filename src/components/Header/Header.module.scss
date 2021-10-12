@@ -19,8 +19,17 @@
 }
 
 .headerCart {
-  display: flex;
-  justify-items: center;
-  align-items: center;
-  gap: 0.5em;
+  button {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 0.5em;
+    background-color: transparent;
+    color: inherit;
+    border: none;
+    cursor: pointer;
+  }
+  span {
+    font-size: 0.9rem;
+  }
 }
